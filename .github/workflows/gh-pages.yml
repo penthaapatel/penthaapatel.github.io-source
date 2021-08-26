@@ -28,4 +28,6 @@ jobs:
         external_repository: penthaapatel/penthaapatel.github.io
         publish_branch: main
         publish_dir: ./public
+        emptyCommits: false
+        commitMessage: ${{ github.event.head_commit.message }}
       
