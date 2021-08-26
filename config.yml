@@ -73,7 +73,7 @@ params:
     profileMode:
         enabled: true
         title: Penthaa Patel
-        imageUrl: "me.jpg"
+        imageUrl: "me.png"
         imageTitle: my image
         imageWidth: 120
         imageHeight: 120
