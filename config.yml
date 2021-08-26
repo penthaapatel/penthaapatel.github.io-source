@@ -1,0 +1,4 @@
+baseURL: "https://penthaapatel.github.io/"
+title: Penthaa Patel
+paginate: 5
+theme: hugo-PaperMod
