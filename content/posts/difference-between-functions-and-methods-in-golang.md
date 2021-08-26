@@ -1,7 +1,7 @@
 ---
 title: "Difference between functions and methods in Golang"
 date: 2021-03-18
-draft: true
+draft: false
 tags: 
   - golang
 categories:

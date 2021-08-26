@@ -1,7 +1,7 @@
 ---
 title: "Contributing to Open Source Go projects on GitHub - A recipe to clone forked Go repositories"
 date: 2019-06-08
-draft: true
+draft: false
 tags: 
   - golang
   - open source

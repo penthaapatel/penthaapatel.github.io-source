@@ -1,7 +1,7 @@
 ---
 title: "Golang-How to parse JSON data into a nested struct"
 date: 2019-05-22
-draft: true
+draft: false
 tags: 
   - golang
   - json
