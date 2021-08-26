@@ -23,9 +23,9 @@ jobs:
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
-      env:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        EXTERNAL_REPOSITORY: penthaapatel/penthaapatel.github.io
-        PUBLISH_BRANCH: main
-        PUBLISH_DIR: ./public
+      with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        external_repository: penthaapatel/penthaapatel.github.io
+        publish_branch: main
+        publish_dir: ./public
       
