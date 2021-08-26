@@ -92,7 +92,7 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/penthaapatel"
-        - name: linkedin2
+        - name: linkedin
           url: "https://www.linkedin.com/in/penthaapatel/"
         - name: medium
           url: "https://penthaa.medium.com"
