@@ -55,7 +55,7 @@ service Url{
     rpc CallUrl(UrlRequest) returns (UrlResponse){}
 }
 ```
-In the above example, the first line of the file specifies that you're using `proto3` syntax, **CallUrl** is a **service**, **UrlRequest** and **UrlResponse** are the **message** definitions. We can see that the CallUrl acts as a function with input parameter as HelloRequest and output as UrlResponse. The message definitions can have **fields** within them. Each field has a name and a type. Here we have **req** field which has the data type string in UrlRequest and **res** is a field whose data type is int in UrlResponse.
+In the above example, the first line of the file specifies that you're using `proto3` syntax, **CallUrl** is a **service**, **UrlRequest** and **UrlResponse** are the **message** definitions. We can see that the RPC service - CallUrl acts as a function with input parameter as UrlRequest and output as UrlResponse. The message definitions can have **fields** within them. Each field has a name and a type. Here we have **req** field which has the data type string in UrlRequest and **res** is a field whose data type is int in UrlResponse.
 
 **Important step - Compiling a .proto file**
 - This generates helper code to implement the server and client code in the programming language of your choice.
