@@ -15,22 +15,20 @@ Apart from programming, I love to paint,draw 🎨 and play chess ♟.
 
 If you would like to connect, feel free to send in a message on [LinkedIn](https://www.linkedin.com/in/penthaapatel/) or write to me at penthaapatel[at]gmail[dot]com.
 
-**Link to socials:**
+***Link to socials:***
 
 <a href="https://github.com/penthaapatel">
-  <img align="left" width="35px" hspace="5" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/github.svg"/>
+  <img style="border:10px;margin:10px;float:left;width:40px;" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/github.svg"/>
 </a>
 
 <a href="https://www.linkedin.com/in/penthaapatel/">
-  <img align="left" width="35px" hspace="5" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/linkedin.svg"/>
+  <img style="border:10px;margin:10px;float:left;width:40px;" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/linkedin.svg"/>
 </a>
 
 <a href="https://penthaa.medium.com">
-  <img align="left" width="35px" hspace="5" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/medium.svg"/>
+  <img style="border:10px;margin:10px;float:left;width:40px;" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/medium.svg"/>
 </a>
 
 <a href="https://dev.to/penthaapatel">
-  <img align="left" width="35px" hspace="5" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/devdotto.svg"/>
+  <img style="border:10px;margin:10px;float:left;width:40px;" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/devdotto.svg"/>
 </a>
-
-
