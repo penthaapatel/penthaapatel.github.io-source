@@ -21,6 +21,10 @@ If you would like to connect, feel free to send in a message on [LinkedIn](https
   <img style="border:10px;margin:10px;float:left;width:40px;" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/github.svg"/>
 </a>
 
+<a href="https://twitter.com/PenthaaPatel">
+  <img style="border:10px;margin:10px;float:left;width:40px;" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/twitter.svg"/>
+</a>
+
 <a href="https://www.linkedin.com/in/penthaapatel/">
   <img style="border:10px;margin:10px;float:left;width:40px;" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/linkedin.svg"/>
 </a>

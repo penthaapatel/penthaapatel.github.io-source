@@ -92,6 +92,8 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/penthaapatel"
+        - name: twitter
+          url: "https://twitter.com/PenthaaPatel"
         - name: linkedin
           url: "https://www.linkedin.com/in/penthaapatel/"
         - name: medium
