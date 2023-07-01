@@ -26,7 +26,7 @@ url: "/about/"
 <br>
 Hi there! 👋
 
-I'm an aspiring software developer from India 🇮🇳  I graduated from IIIT Bh with a Bachelor's in Computer Science and Engineering and I am **actively looking for entry level software developer roles** right now.
+I'm a software developer from India 🇮🇳 with a keen interest in Infosec.  I graduated from IIIT Bh with a Bachelor's in Computer Science and Engineering.
 
 I code mostly using Go. I have developed individual projects that implement REST APIs, gRPC protocols. To view these projects and my other Open Source contributions to various repositories, do visit my [GitHub profile](https://github.com/penthaapatel). 
 
