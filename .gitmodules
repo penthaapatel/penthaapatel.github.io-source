@@ -1,7 +1,7 @@
 [submodule "themes/hugo-PaperMod"]
 	path = themes/hugo-PaperMod
 	url = https://github.com/penthaapatel/hugo-PaperMod.git
-	branch = master
+	branch = my-branch
 [submodule "public"]
 	path = public
 	url = https://github.com/penthaapatel/penthaapatel.github.io.git
